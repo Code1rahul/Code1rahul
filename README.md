@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Code1rahul
 - 👀 I’m always interested/excited in how a developer develop a Website, App, Game's,..ect.
-- 🌱 I’m currently learning py(django).👽
-- 💞️ --
+- 🌱 I’m currently learning EH.👽
+- 💞️ --SEE YOU LATER 😶‍🌫️
 - 📫 personal project was in CODSOFT repository and my portfolio in Rahul yadav repository.
 
 <!---
